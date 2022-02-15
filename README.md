@@ -1,12 +1,15 @@
 ### Hi there 👋
+I'm **Rizal Rahmat Ramadhan**.  
+I’m currently learning on **Politeknik Negeri Padang**, [PNP](https://www.pnp.ac.id/)  
+I'm a **Telco Enthusias**.  
+I have attended training about Telco,[DTS](https://digitalent.kominfo.go.id/)  
 
 <!--
 **rizal1712/rizal1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning on Politeknik Negeri Padang, [PNP](https://www.pnp.ac.id/)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
