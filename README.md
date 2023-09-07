@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm **Rizal Rahmat Ramadhan**.  
-I’m currently learning on **Politeknik Negeri Padang**, [PNP](https://www.pnp.ac.id/)  
+I’m fresh graduate at **Politeknik Negeri Padang**, [PNP](https://www.pnp.ac.id/)  
 I'm a **Telco Enthusias**.  
 I have attended training about Telco,[DTS](https://digitalent.kominfo.go.id/)   
 
